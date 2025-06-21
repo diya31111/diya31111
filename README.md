@@ -1,8 +1,22 @@
-<!-- GitHub Profile README for Diya Mamoria -->
+<h1 align="center">Hi, I'm Diya Mamoria 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Diya+Mamoria!;SDE+in+the+Making;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F24A72&center=true&vCenter=true&width=800&lines=Final+Year+IT+Student+@+VIT+Vellore;Generative+AI+%7C+Deep+Learning+%7C+ML+Engineering;Samsung+PRISM+%7C+Innovana+Thinklabs;Leadership+%7C+Tech+Research+%7C+Always+Curious" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧠 LeetCode Highlights
+
+- 🔥 **Daily Streak:** 100+ days and counting  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/diyamamoria?theme=dark&font=Source+Code+Pro&ext=contest" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/diya-mamoria" target="_blank">
@@ -15,14 +29,25 @@
 
 ---
 
-## 🚀 About Me
+### 👩‍🎓 About Me
 
-🎓 Currently pursuing B.Tech in **Information Technology @ VIT Vellore**  
-🧠 Passionate about **AI**, **machine learning**, and **generative technologies**  
-💬 I thrive at the intersection of **creativity, code**, and **community**
+I'm a final-year B.Tech IT student at **VIT Vellore**, specializing in **Generative AI**, **Machine Learning**, and impactful tech.  
+I’ve interned at **Samsung PRISM** and **Innovana Thinklabs**, working on **diffusion models**, **on-device AI**, and user-facing ML applications.  
+I'm passionate about applying AI research into real-world products and leading initiatives that blend tech and impact.
 
-I’ve built models that detect **Alzheimer’s**, deployed vision systems to edge devices, and led teams at **India’s largest cultural & tech fests**.  
-I love creating intelligent tools and impactful tech — with purpose and polish.
+---
+
+### 💼 Experience Highlights
+
+- 🎯 **Samsung PRISM – Research Intern**  
+  - On-device object addition using **diffusion models**  
+  - Real-time performance optimization for edge deployment  
+  - Tech: TensorFlow, PyTorch, Keras, OpenCV
+
+- 🤖 **Innovana Thinklabs – ML Intern**  
+  - Built ML models for user behavior analytics in consumer apps  
+  - Focused on predictive modeling, data engineering  
+  - Tech: scikit-learn, TensorFlow, Pandas
 
 ---
 
@@ -60,25 +85,49 @@ I love creating intelligent tools and impactful tech — with purpose and polish
 
 ---
 
-## ✨ Interests
+### 🌟 Notable Projects
 
-🌌 Generative AI & Diffusion Models  
-📱 On-Device Machine Learning  
-🧬 HealthTech using Deep Learning  
-📊 Data Storytelling & Visualization  
-🎭 Organizing Hackathons & Cultural Fests  
-🌍 Tech for Social Good  
+- 🧠 **Alzheimer’s Detection (99.81% accuracy)**  
+  Built a CNN for MRI-based early-stage Alzheimer’s prediction, outperforming pre-trained models like Xception and ResNet.
+
+- 🌐 **MessIt App – Frontend + Website**  
+  Designed and developed a clean and intuitive UI for a food-management app enhancing accessibility and user experience.
 
 ---
 
+### 🏆 Campus Leadership & Impact
+
+- 💰 **Sponsorship Manager – Riviera'25**  
+  Led a team securing ₹1 Cr+ in sponsorships for VIT's flagship fest.
+
+- 🩸 **Publicity Head – Youth Red Cross (YRC)**  
+  - Organized the largest blood donation camp in Vellore (700 units)  
+  - Managed branding, outreach & media relations
+
+- 🤝 **Sponsorship Coordinator – GraVITas'24**  
+  Supported outreach and negotiation for a ₹50L+ technical fest.
+
+- ⚡ **Event Manager – Ic-ETITE’24 & Agaaz 7.0**  
+  Led volunteer teams, organized international hackathons and comedy events with 2K+ audience.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya31111&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya31111&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diya31111&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya31111&theme=radical" width="45%" />
 </p>
 
 ---
 
+
+### 😂 Random Dev Meme
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=%230d1117&textColor=%23fff" />
 </p>
+
+---
+
+> ⚡ *Always learning, always building. Let’s connect and create something impactful!*
