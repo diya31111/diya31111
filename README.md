@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Diya Mamoria -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Diya+Mamoria!;AI+Engineer+in+the+Making;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Diya+Mamoria!;SDE+in+the+Making;" alt="Typing SVG" />
 </p>
 
 <p align="center">
