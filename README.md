@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diya Mamoria 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F24A72&center=true&vCenter=true&width=800&lines=Final+Year+IT+Student+@+VIT+Vellore;Generative+AI+%7C+Deep+Learning+%7C+ML+Engineering;Samsung+PRISM+%7C+Innovana+Thinklabs;Leadership+%7C+Tech+Research+%7C+Always+Curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F24A72&center=true&vCenter=true&width=800&lines=Final+Year+IT+Student+@+VIT+Vellore;Generative+AI+%7C+Deep+Learning+%7C+ML+Engineering;Microsoft+%7C+Samsung+PRISM+%7C+Innovana+Thinklabs;Leadership+%7C+Tech+Research+%7C+Always+Curious" alt="Typing SVG" />
 </p>
 
 ---
